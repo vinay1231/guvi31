@@ -12,15 +12,15 @@ class GUVI
 
 	{
 
-		Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
 
         int n=sc.nextInt();
 
         int m=sc.nextInt();
 
-          int avg=m+n;
+         int avg=m+n;
 
-          System.out.println(avg);
+         System.out.println(avg);
 
 	}
 
